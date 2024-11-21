@@ -1,6 +1,6 @@
 # Video splitter
 
-Video splitter is a Python library for splitting a conference video into different videos.
+Video splitter is a Python library for splitting one video into different videos.
 
 ## Installation
 
